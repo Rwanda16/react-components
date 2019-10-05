@@ -14,7 +14,7 @@ cd my-app
 npm start
 ```
 ###### Save time writing css with semantic UI as adependency
-[Semantic UI documentation](https://semantic-ui.com "Target_blank")
+[Semantic UI documentation](https://semantic-ui.com)
 
 Copy and paste by in HTML public folder where you would usually link the css code.
 
